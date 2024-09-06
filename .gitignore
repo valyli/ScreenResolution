@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+*.pdb
+ScreenResolution/obj/*
+ScreenResolution/bin/*
